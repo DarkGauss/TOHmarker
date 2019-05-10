@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+#example_out old ignore
+example_out/Old
+
+.vscode
